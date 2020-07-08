@@ -1,0 +1,22 @@
+{
+  "name": "darwoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express-winston": "^4.0.3",
+    "logger": "0.0.1",
+    "moment": "^2.27.0",
+    "sqlite3": "^5.0.0",
+    "winston": "^3.3.3"
+  }
+}
