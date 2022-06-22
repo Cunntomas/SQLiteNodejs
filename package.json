@@ -16,7 +16,7 @@
     "express-winston": "^4.0.3",
     "logger": "0.0.1",
     "moment": "^2.27.0",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.0.3",
     "winston": "^3.3.3"
   }
 }
